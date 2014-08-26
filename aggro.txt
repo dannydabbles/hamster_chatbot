@@ -1,0 +1,78 @@
+# list of aggro words and their associated aggro values
+#  each line should only contain a word followed by its aggro value
+#  separated by a space.
+#  lines are read into the aggroMgr and stored as a key:value
+#  pair in the _aggroWords dictionary.
+#  blank lines and lines beginning with '#' are ignored.
+#  if a duplicate entry appears, the later entry will overwrite
+#  the earlier one.
+#  (+) positive values are anger words
+#  (-) negative values are happy words
+
+
+# hardcoded anger words
+harvey 3
+you 3
+your 3
+you're 3
+die 2
+hate 2
+abhor 2
+detest 2
+despise 2
+loathe 2
+suck 2
+spurn 2
+shun 2
+ugly 2
+bad 2
+gross 2
+revolting 2
+repulsive 2
+horrid 2
+repugnant 2
+disgusting 2
+despicable 2
+dirty 2
+foul 2
+hideous 2
+sickening 2
+horrid 2
+nasty 2
+lab 3
+mink 4
+stoat 4
+fox 4
+dog 4
+cat 4
+
+# hardcoded happy words
+furry -2
+cuddly -2
+cute -2
+adorable -2
+pretty -2
+delightful -2
+awesome -2
+cool -2
+rad -2
+radical -2
+fantastic -2
+like -2
+love -2
+poo -3
+feces -3
+fecal -3
+seed -3
+grass -3
+fruit -3
+apple -3
+banana -3
+grape -3
+cherry -3
+corn -3
+insect -3
+sleep -2
+hibernate -2
+
+# learned words

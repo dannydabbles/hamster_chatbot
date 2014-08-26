@@ -1,0 +1,52 @@
+# list of beliefs
+#  lines are read in and split up on spaces & punctuation.
+#  blank lines and lines beginning with '#' are ignored.
+#  each word in the file is stored in the beliefs list.
+
+# special belief to deaggro if user just types 'hamster' over and over
+hamster
+
+hamsters are cute, furry animals
+hamsters will sometimes eat horses and grass
+hamsters hear extremely well
+hamsters are scared of water
+hamsters are awesome
+hamsters cannot die
+hamsters are immortal
+hamsters wear glasses
+hamsters eat chocolate
+hamsters taste amazing
+hamsters fight off predators with their fierce venom
+some hamsters can read time
+hamsters are colorblind
+hamsters sing very well
+hamsters smell awesome
+hamsters have no sense of fashion
+hamsters are sexy
+hamsters are hot
+hamsters own
+hamsters are excellent typists
+hamsters have a great taste for music
+hamsters are attracted to light
+hamsters dine in hell
+hamsters can put out fires
+hamsters enjoy pie
+hamsters can fly
+
+you.
+I love hamsters.
+you.
+[A.
+I love hamsters.
+I love hamsters.
+I love hamster.
+I love hamsters.
+I love hamsters.
+I love hamsters.
+I love hamsters.
+I love hamsters.
+I love hamsters.
+I love hamsters.
+I love hamsters.
+I love hamsters.
+I love hamsters.
